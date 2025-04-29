@@ -1,0 +1,5 @@
+numpy==1.23.5
+pandas==2.0.3
+mujoco==2.3.0
+safety-gymnasium==0.4.1
+omnisafe==0.4.0
